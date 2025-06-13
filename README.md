@@ -50,3 +50,6 @@
   <img src="https://img.shields.io/badge/game-Red_Dead_Redemption_2-ff4444?style=for-the-badge&logo=steam" alt="Game" />
   <img src="https://img.shields.io/badge/version-2025-blueviolet?style=for-the-badge&logo=windows" alt="Version" />
 </p>
+
+
+[![1742810665750.png](https://i.postimg.cc/QCgbvRdf/1742810665750.png)](https://postimg.cc/y3dcZp9R)
